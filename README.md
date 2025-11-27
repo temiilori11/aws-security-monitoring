@@ -27,28 +27,28 @@ Create a CloudWatch alarm that triggers when multiple failed login attempts are 
 # 📸 Screenshots
 
 ### 1. CloudWatch Alarm Trigger  
-![Alarm](ALARM.png)
+![Alarm](
 
 ### 2. Email Notification  
-![Alarm Email](ALARMEMAIL.png)
+![Alarm Email]
 
 ### 3. Metric Filter (Failed Console Login Attempts)  
-![Metric Filter](failedlogins.png)
+![Metric Filter]
 
 ### 4. CloudTrail Event Logs  
-![CloudTrail Events](failedconsole.png)
+![CloudTrail Events]
 
 ### 5. IAM User Setup  
-![Users](IAMUSERSETUP.png)
+![Users]
 
 ### 6. JSON Event View  
-![JSON View](JSON.png)
+![JSON View]
 
 ### 7. Log Streams  
-![Log Streams](logstreams.png)
+![Log Streams]
 
 ### 8. SNS Topics  
-![SNS Topics](Pipeline.png)
+![SNS Topics]
 
 ---
 
